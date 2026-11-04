@@ -1,0 +1,21 @@
+Codigo|Area_Medica|Especialidad|Diagnostico_Especifico
+D001|Cardiologia|Cardiologia Clinica|Hipertension arterial
+D002|Cardiologia|Cardiologia Clinica|Insuficiencia cardiaca
+D003|Cardiologia|Arritmias|Fibrilacion auricular
+D004|Neurologia|Neurologia Clinica|Migraña cronica
+D005|Neurologia|Epilepsia|Epilepsia mioclonica
+D006|Neurologia|Vascular|Accidente cerebrovascular isquemico
+D007|Pediatria|Pediatria General|Bronquiolitis aguda
+D008|Pediatria|Infectologia|Otitis media aguda
+D009|Pediatria|Gastroenterologia|Gastroenteritis aguda
+D010|Medicina Interna|Endocrinologia|Diabetes mellitus tipo 2
+D011|Medicina Interna|Endocrinologia|Hipotiroidismo primario
+D012|Medicina Interna|Neumologia|Asma bronquial exacerbado
+D013|Traumatologia|Ortopedia|Fractura de femur izquierdo
+D014|Traumatologia|Ortopedia|Esguince de tobillo grado 2
+D015|Gastroenterologia|Gastro General|Gastritis cronica
+D016|Gastroenterologia|Hepatologia|Cirrosis hepatica inicial
+D017|Dermatologia|Dermatologia Clinica|Dermatitis atopica
+D018|Dermatologia|Oncologia Cutanea|Carcinoma basocelular
+D019|Psiquiatria|Adultos|Trastorno de ansiedad generalizada
+D020|Psiquiatria|Adultos|Episodio depresivo mayor
